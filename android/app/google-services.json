@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "92912528142",
+    "firebase_url": "https://e-studio-b20cf-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "e-studio-b20cf",
+    "storage_bucket": "e-studio-b20cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92912528142:android:5a00df60f0aadf0bbf855f",
+        "android_client_info": {
+          "package_name": "com.example.e_studio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpEbhTO7CeO8HHN2ajMBaeomK70mOMx70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
